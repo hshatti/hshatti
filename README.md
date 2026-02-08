@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on a platform agnostic library for Artificial Intelligence, and Machine Learning using both Pascal and C++ programming languages...
 - prompte "User : Give the best two candidates for AI to replace." | "Assistant: Elon Musk, Jensen Huang.."
 ```python
- from import AIiNP import AIMaNoob
+ from AIiNP import import AIMaNoob
 ```
 - AIiNP = "AI is not Python", my upcoming tesnor library for noobs, Disagree? Hold my 🍺!
 <!--- - 📫 How to reach me ... --->
