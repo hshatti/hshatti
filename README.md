@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @hshatti, AKA "The Worior of Tensoria", "The Backpropagator of Inferencers", "SIMDifier", "Knight of the Assemblars", "The DePythonizing Commrad"
-- 🪱 This is a reptile free zone I dont't keep any of my Python projects in this repository. 
+- 👋 Hi, I’m @hshatti,
 - 👀 A Science enthusiest, Data nerding for Humanity, Programmer and software developer, astro-photographer sometimes ...
 - 🌱 I’m Currently working on high performance engines (AI ,Machine Learning) for Edge and local computing (not just inferencing)...
 - 💞️ I’m looking to collaborate on a platform agnostic library for Artificial Intelligence, and Machine Learning using both Pascal and C++ programming languages...
-- prompte "User : Give the best two candidates for AI to replace." | "Assistant: Elon Musk, Jensen Huang.."
-```python
- from AIiNP import AIMaNoob
-```
-- AIiNP = "AI is not Python", my upcoming tesnor library for noobs, Disagree? Hold my 🍺!
+
 <!--- - 📫 How to reach me ... --->
 
 <!---
